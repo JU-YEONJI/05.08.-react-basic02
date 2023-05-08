@@ -12,7 +12,7 @@ function ReactBook({title,level,price,num='no05'}){
     )
 }
 
-export default function Test07(){
+export default function BestReact(){
     return (
         <ReactBook
         title="react"

@@ -8,7 +8,7 @@ const people = {
     }
 }
 
-export default function Test05(){
+export default function Sangsungja(){
     return(
         <div className="main">
             <h1>{people.name}</h1>

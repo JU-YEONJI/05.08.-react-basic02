@@ -15,7 +15,7 @@ function ReactBook(props){
     )
 }
 
-export default function Test06(){
+export default function Props(){
 return(
     <ReactBook
     title="react"

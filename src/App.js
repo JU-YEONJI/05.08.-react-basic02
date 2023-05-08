@@ -4,9 +4,14 @@
 // import Test02 from "./component/Test02"
 // import Test03 from "./component/Test03"
 // import Test04 from "./component/Test04"
-// import Test05 from "./component/Test05"
-// import Test06 from "./component/Test06"
-import Test07 from "./component/Test07"
+// import Sangsungja from "./component/Sangsungja"
+// import Props from "./component/Props"
+// import BestReact from "./component/BestReact"
+// import CountPlus from "./component/CountPlus"
+// import Test09 from "./component/Test09"
+import Test10 from "./component/Test10"
+// import Test11 from "./component/Test11"
+// import Test12 from "./component/function"
 
 function App(){
     return(
@@ -15,9 +20,14 @@ function App(){
         {/* <Test02 /> */}
         {/* <Test03 /> */}
         {/* <Test04 /> */}
-        {/* <Test05 /> */}
-        {/* <Test06 /> */}
-        <Test07 />
+        {/* <Sangsungja /> */}
+        {/* <Props/> */}
+        {/* <BestReact /> */}
+        {/* <CountPlus /> */}
+        {/* <Test09 /> */}
+        <Test10 />
+        {/* <Test11 /> */}
+        {/* <Test12 /> */}
         </>
     )
 }
