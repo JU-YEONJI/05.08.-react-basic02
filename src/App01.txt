@@ -2,26 +2,15 @@
 // import Main from "./component/Main";
 // import Footer from "./component/Footer";
 
-//   export default function App(){
-//     return(
-//       <>
-//       <Header />
-//       <Main />
-//       <Footer />
-//       </>
-//     )
-//   }
-
-import Test01 from "./component/Test01"
-
-function App(){
-    return(
-        <>
-        <Test01 />
-        </>
-    )
-}
-
+   export default function App(){
+     return(
+       <>
+       <Header />
+       <Main />
+       <Footer />
+       </>
+     )
+   }
 
 //   export default 이름 
 //   function(){}
