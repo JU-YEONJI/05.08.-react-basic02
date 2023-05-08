@@ -1,0 +1,8 @@
+div{
+    background-color: #666;
+}
+
+div>h1{
+    background-color: orange;
+    color: #fff;
+}
